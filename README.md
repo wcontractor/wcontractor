@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wcontractor
 - 👀 I’m interested in taking advantage of technology to make our jobs and lives easier.
 - 🌱 I’m currently learning many things, but mostly topics related to data analytics and cloud.
-- 💞️ I’m looking to collaborate on a project in the early phases where I can help shape and product.
+- 💞️ I’m looking to collaborate on a project in the early phases where I can help shape the product.
 - 📫 How to reach me wcontractor@gmail.com
 
 <!---
